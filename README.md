@@ -49,15 +49,21 @@ My expertise includes developing custom backend systems, integrating third-party
 - Through SA technologies I have joined at LearningMate Solutions PVT LTD as a Vendor resource.
 
 ### **Senior Engineer**  
-📍 **Volansys Technologies, Ahmedabad, Gujarat, INDIA** (Dec 2020 – Aug 2021)  
+📍 **Volansys Technologies, Ahmedabad, INDIA** (Dec 2020 – Aug 2021)  
 - Worked with Product Risk management system with handling threats in organization and mitigating the controls for this
 threats.
 - Developed this product using **PHP, CI, MySQL**.
 
-### **Junior Software Engineer**  
-📍 **Mugenesys Software Pvt. Ltd, Mumbai, INDIA** (Aug 2016 – Nov 2017)  
-- Built and maintained web applications using **PHP, Laravel, and MySQL**.
-- Collaborated with cross-functional teams for project development and deployment.
+### **Senior PHP Developer**  
+📍 **Solace Infotech Pvt. Ltd, Nashik, INDIA** (March 2017 – December 2020)  
+- This is the framing website where customer can buy photo frames as they want, customer can customized the website
+with own photo, text.
+- Built and maintained web applications using **PHP, MySQL, jQuery, JavaScript, Ajax**.
+
+### **Senior Software Engineer**  
+📍 **Upturn India Technologies, Nashik, INDIA** (June 2015 – March 2021)  
+- Designed and developed multiple web applications for US-based clients.
+- Built API's and DB Driven application using **PHP, Laravel, MySQL, jQuery and Javascript**
 
 ---
 
