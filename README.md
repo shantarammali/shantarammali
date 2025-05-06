@@ -45,15 +45,14 @@ My expertise includes developing custom backend systems, integrating third-party
 - Worked here on different technologies like Laravel, PHP, Node, React Js, MongoDB, MySql.
 
 ### ***Senior Software Engineer**  
-📍 **MobileFirst Applications Pvt Ltd, Ahmedabad, INDIA** (Apr 2021 – Jan 2024)  
-- Managed **multiple projects and a development team** using Agile methodologies.
-- Designed and developed full-stack applications using **React.js, Node.js, Laravel, and PostgreSQL**.
-- Implemented **JIRA for project tracking and agile software development**.
+📍 **S.A. Technologies, Mumbai, INDIA** (Aug 2021 – Aug 2022)  
+- Through SA technologies I have joined at LearningMate Solutions PVT LTD as a Vendor resource.
 
-### **Senior Web Developer**  
-📍 **Solace Infotech Pvt. Ltd, Nashik, INDIA** (Dec 2017 – Dec 2020)  
-- Designed and developed multiple web applications for US-based clients.
-- Developed RESTful APIs and database-driven applications using **PHP, Laravel, MySQL, and MongoDB**.
+### **Senior Engineer**  
+📍 **Volansys Technologies, Ahmedabad, Gujarat, INDIA** (Dec 2020 – Aug 2021)  
+- Worked with Product Risk management system with handling threats in organization and mitigating the controls for this
+threats.
+- Developed this product using **PHP, CI, MySQL**.
 
 ### **Junior Software Engineer**  
 📍 **Mugenesys Software Pvt. Ltd, Mumbai, INDIA** (Aug 2016 – Nov 2017)  
