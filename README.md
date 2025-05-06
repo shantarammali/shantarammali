@@ -44,7 +44,7 @@ My expertise includes developing custom backend systems, integrating third-party
 - CSS02 - its a samll scale home visit Student survey application.
 - Worked here on different technologies like Laravel, PHP, Node, React Js, MongoDB, MySql.
 
-### ***Senior Software Engineer**  
+### **Senior Software Engineer**  
 📍 **S.A. Technologies, Mumbai, INDIA** (Aug 2021 – Aug 2022)  
 - Through SA technologies I have joined at LearningMate Solutions PVT LTD as a Vendor resource.
 
